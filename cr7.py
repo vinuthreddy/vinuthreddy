@@ -1,3 +1,4 @@
+PROGRAM 2
 #subtraction of 3 numbers
 p=20
 q=60
