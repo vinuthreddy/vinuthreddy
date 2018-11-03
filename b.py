@@ -11,7 +11,6 @@ def add(a,b):
 #defining subtraction
 def sub(a,b):
     return a-b
-
-r=sub(a-b)
-r=add(a+b)
+r=a-b
+r=a+b
 print(r)

@@ -1,10 +1,9 @@
-PROGRAM 2
 #subtraction of 3 numbers
 p=20
 q=60
 r=90
+print("the value of p=",p,)
+print("the value of q=",q,)
+print("the value of r=",r,)
 result=p-q-r
 print("subtraction of ",p,q ,"and ",r ,"is", result)
-output
-python3 cr7.py
-subtraction of  20 60 and  90 is -130
