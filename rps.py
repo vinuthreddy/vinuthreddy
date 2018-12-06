@@ -15,7 +15,7 @@ else:
 	    print("you lose!!!")
 output
 enter rock paper or scissor rock
-computer puts r
+computer puts p
 you lose!!!
 
 
