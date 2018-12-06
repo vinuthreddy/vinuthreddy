@@ -13,5 +13,10 @@ if(user_input=='r'and c=='s' or user_input=='p'and c=='r' or user_input=='s'and 
 
 else:
 	    print("you lose!!!")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+output
+enter rock paper or scissor rock
+computer puts r
+you lose!!!
+
+
                                                 
